@@ -15,7 +15,7 @@ group: "navigation"
 
 
 ##关于袁玮
->热爱电脑、网络、数码，现居四川广安，我的个人博客地址是<http://www.aogun.com> 或者欢迎大家发送电子邮件 Webmaster@aogun.com。
+>热爱电脑、网络、数码，现居四川广安，我的个人博客地址是<http://www.aogun.com> 或者欢迎大家发送电子邮件 <Webmaster@aogun.com>。
 
 ##更多。。。
 >近期，将把时间重点放在规划学习，精简不必要的应酬方面。相信简单，就是最好的。 
