@@ -1,18 +1,11 @@
-# 传说中的头像照片墙
-
-- title: 传说中的头像照片墙
-- link: http://www.aogun.com/?p=107
-- author: Gmy
-- category: 心情随笔
-- tags: 
-- summary: 
-- post_id: 107
-- date: 2012-01-12 15:12:12
-- post_date_gmt: 2012-01-12 07:12:12
-- comment_status: open
-- post_name: %e4%bc%a0%e8%af%b4%e4%b8%ad%e7%9a%84%e5%a4%b4%e5%83%8f%e7%85%a7%e7%89%87%e5%a2%99
-- status: publish
-- post_type: post
+---
+layout: post
+title: "传说中的头像照片墙"
+date: 2012-01-12 15:12
+category: "随笔"
+tags: [照片]
+---
+{% include JB/setup %}
 
 ----------------
 
