@@ -1,0 +1,48 @@
+# 结婚旅行，山西王家大院、平遥古镇游
+
+- title: 结婚旅行，山西王家大院、平遥古镇游
+- link: http://www.aogun.com/?p=41
+- author: Gmy
+- category: 心情随笔
+- tags: 团队,随记
+- summary: 
+- post_id: 41
+- date: 2008-09-09 15:16:49
+- post_date_gmt: 2008-09-09 15:16:49
+- comment_status: open
+- post_name: %bd%e1%bb%e9%c2%c3%d0%d0%a3%ac%c9%bd%ce%f7%cd%f5%bc%d2%b4%f3%d4%ba%a1%a2%c6%bd%d2%a3%b9%c5%d5%f2%d3%ce
+- status: publish
+- post_type: post
+
+----------------
+
+婚后次日开始了对平遥和王家大院的游览。
+
+[![](http://lh6.ggpht.com/verygamer/SMZtALbvx_I/AAAAAAAAAB0/ZrFGBANBW3A/s400/f4.jpg)](http://picasaweb.google.com/lh/photo/PWvxwOutlKeF-YmGtRQHag)
+
+发件人 [200809平遥印象](http://picasaweb.google.com/verygamer/20080902)
+  
+    山西，古中原之地。为华夏文明发源之乡吧。这里的土地和他的历史一样厚重中显现着苍老。土地缺少水份而干裂开来。出产十分有限。但这丝毫不影像当地人保持那种难得的淳朴。 一路上我们都感动着。 这么好的居民实在难得可贵！  相反的，  生长在有“天府之国”之称的四川省的我们。 整天好吃好喝，却对自然界的索取更加无度。 甚至丢失本性。  话题沉重而遥远了。 返回本身吧。。。。。。。。  
+
+
+[![](http://lh6.ggpht.com/verygamer/SMZtFIKnExI/AAAAAAAAACE/dbXtYjjmf9Y/s400/f5.jpg)](http://picasaweb.google.com/lh/photo/6w0BTOzTN9f9hZTWdQwl8g)
+
+发件人 [200809平遥印象](http://picasaweb.google.com/verygamer/20080902)
+  
+  山西。 地灵人杰之地。 最早的出国经商中国人从这儿出发。。 明清时期盛极一时以实干著称的晋商整体。。现代的名人有： 山西灵石县的老中医李可老先生。 著名话剧导演张志刚先生。  当你看到许多外国人慕名而来找李可求医疑难杂症的时候。  在你看完张志刚的《一把酸枣》话剧的时候。你不得不感叹。 老祖宗说的真是太对啦： 余食赘行！   好吃好喝好享受，反而成了我们追求真理和上进的累赘了吧。。。。  
+
+
+[![](http://lh6.ggpht.com/verygamer/SMZtf0oEsWI/AAAAAAAAADM/9xwzCYsEwqE/s400/f8.jpg)](http://picasaweb.google.com/lh/photo/zqHRnTG_15WSAja8rIYbyw)
+
+发件人 [200809平遥印象](http://picasaweb.google.com/verygamer/20080902)
+  
+  到山西的另一个值得怀念之处，是偶遇了从武汉华中科技大学来的年已古稀的两位教授--陆夫妇。我们的缘分从王家大院的帮忙拍摄一张照片开始。一直延续到山西旅游的整个行程。他们为教育事业贡献了40余年之后。终于有机会一起踏上旅途找寻另一片自我的天空。 一路上，他们的涵养、默契。让我钦佩不已。 当我们到平遥城外，老陆教授拿出在网上查阅了资料随手抄下的平遥旅店推荐和平遥小吃时。 我忽然发现， 我们的距离是如此之近。 一点代沟都没有。  都是那么善于利用网络来分享和获得知识。 由此，我们一路就不用脑子的跟着陆教授屁股后面跑也乐趣十足啊。 ：） 。期待两位老师的广安之旅早日开始。  
+
+
+[![](http://lh6.ggpht.com/verygamer/SMaIEtJh1JI/AAAAAAAAAv0/t2GLb6fp6M8/s288/%E7%85%A7%E7%89%87%20151.jpg)](http://picasaweb.google.com/lh/photo/rdKyhKvpcT0PCvcqB6qu4Q)
+
+发件人 [200809平遥印象](http://picasaweb.google.com/verygamer/20080902)
+  
+  
+  更多图片平遥图片参考  
+[http://picasaweb.google.com/verygamer/20080902#](http://)
