@@ -1,18 +1,11 @@
-# 姬神的纯音乐
-
-- title: 姬神的纯音乐
-- link: http://www.aogun.com/?p=13
-- author: Gmy
-- category: 天澜之音
-- tags: 音乐
-- summary: 
-- post_id: 13
-- date: 2007-07-25 17:24:59
-- post_date_gmt: 2007-07-25 17:24:59
-- comment_status: open
-- post_name: %bc%a7%c9%f1%b5%c4%b4%bf%d2%f4%c0%d6
-- status: publish
-- post_type: post
+---
+layout: post
+title: "姬神的纯音乐"
+date: 2007-07-25 17:24
+category: "音乐"
+tags: [分享]
+---
+{% include JB/setup %}
 
 ----------------
 

@@ -1,18 +1,11 @@
-# 西安之旅
-
-- title: 西安之旅
-- link: http://www.aogun.com/?p=42
-- author: Gmy
-- category: 心情随笔
-- tags: 日志,照片,随记
-- summary: 
-- post_id: 42
-- date: 2008-09-09 15:34:35
-- post_date_gmt: 2008-09-09 15:34:35
-- comment_status: open
-- post_name: %ce%f7%b0%b2%d6%ae%c2%c3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "西安之旅"
+date: 2008-09-09 15:34
+category: "旅行"
+tags: [结婚][访盛]
+---
+{% include JB/setup %}
 
 ----------------
 

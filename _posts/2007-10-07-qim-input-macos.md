@@ -1,18 +1,11 @@
-# 受托提供给大家，苹果下面的最终完美免费版QIM中文输入法。
-
-- title: 受托提供给大家，苹果下面的最终完美免费版QIM中文输入法。
-- link: http://www.aogun.com/?p=32
-- author: Gmy
-- category: 网络分享
-- tags: apple,下载,分享,网络,输入法
-- summary: 
-- post_id: 32
-- date: 2007-10-07 17:28:41
-- post_date_gmt: 2007-10-07 17:28:41
-- comment_status: open
-- post_name: %ca%dc%cd%d0%cc%e1%b9%a9%b8%f8%b4%f3%bc%d2%a3%ac%c6%bb%b9%fb%cf%c2%c3%e6%b5%c4%d7%ee%d6%d5%cd%ea%c3%c0%c3%e2%b7%d1%b0%e6qim%d6%d0%ce%c4%ca%e4%c8%eb%b7%a8%a1%a3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "受托提供给大家，苹果下面的最终完美免费版QIM中文输入法。"
+date: 2007-10-07 17:28
+category: "分享"
+tags: [软件]
+---
+{% include JB/setup %}
 
 ----------------
 

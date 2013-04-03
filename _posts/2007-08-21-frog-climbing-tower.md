@@ -1,18 +1,11 @@
-# 小寓言故事”青蛙爬塔“
-
-- title: 小寓言故事”青蛙爬塔“
-- link: http://www.aogun.com/?p=58
-- author: Gmy
-- category: 网络分享
-- tags: 励志,寓言
-- summary: 
-- post_id: 58
-- date: 2007-08-21 16:25:23
-- post_date_gmt: 2007-08-21 16:25:23
-- comment_status: open
-- post_name: %d0%a1%d4%a2%d1%d4%b9%ca%ca%c2%a1%b1%c7%e0%cd%dc%c5%c0%cb%fe%a1%b0
-- status: publish
-- post_type: post
+---
+layout: post
+title: "小寓言故事”青蛙爬塔“"
+date: 2007-08-21 16:33
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

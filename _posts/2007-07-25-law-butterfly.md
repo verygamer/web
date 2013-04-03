@@ -1,18 +1,11 @@
-# 法者天下之公器，变者天下之公理。
-
-- title: 法者天下之公器，变者天下之公理。
-- link: http://www.aogun.com/?p=11
-- author: Gmy
-- category: 法之国器
-- tags: 励志,寓言
-- summary: 
-- post_id: 11
-- date: 2007-07-25 15:36:55
-- post_date_gmt: 2007-07-25 15:36:55
-- comment_status: open
-- post_name: %b7%a8%d5%df%cc%ec%cf%c2%d6%ae%b9%ab%c6%f7%a3%ac%b1%e4%d5%df%cc%ec%cf%c2%d6%ae%b9%ab%c0%ed%a1%a3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "法者天下之公器，变者天下之公理。"
+date: 2007-07-25 19:33
+category: "随笔"
+tags: [分享]
+---
+{% include JB/setup %}
 
 ----------------
 

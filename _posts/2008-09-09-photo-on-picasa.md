@@ -1,18 +1,11 @@
-# 强大的Picasa相册！推荐给大家
-
-- title: 强大的Picasa相册！推荐给大家
-- link: http://www.aogun.com/?p=43
-- author: Gmy
-- category: 心情随笔
-- tags: 日志,网络
-- summary: 
-- post_id: 43
-- date: 2008-09-09 15:46:13
-- post_date_gmt: 2008-09-09 15:46:13
-- comment_status: open
-- post_name: %c7%bf%b4%f3%b5%c4picasa%cf%e0%b2%e1%a3%a1%cd%c6%bc%f6%b8%f8%b4%f3%bc%d2
-- status: publish
-- post_type: post
+---
+layout: post
+title: "强大的Picasa相册！推荐给大家"
+date: 2008-09-09 15:46
+category: "分享"
+tags: [照片]
+---
+{% include JB/setup %}
 
 ----------------
 

@@ -1,18 +1,11 @@
-# WINDOWS VISTA 与ATI显卡的兼容烦恼~~
-
-- title: WINDOWS VISTA 与ATI显卡的兼容烦恼~~
-- link: http://www.aogun.com/?p=29
-- author: Gmy
-- category: 心情随笔
-- tags: 日志,电脑,系统,随记
-- summary: 
-- post_id: 29
-- date: 2007-09-21 13:28:49
-- post_date_gmt: 2007-09-21 13:28:49
-- comment_status: open
-- post_name: windowsvista%d3%ebati%cf%d4%bf%a8%b5%c4%bc%e6%c8%dd%b7%b3%c4%d5%7e%7e
-- status: publish
-- post_type: post
+---
+layout: post
+title: "WINDOWS VISTA 与ATI显卡的兼容烦恼~~"
+date: 2007-09-21 13:28
+category: "随笔"
+tags: [数码]
+---
+{% include JB/setup %}
 
 ----------------
 

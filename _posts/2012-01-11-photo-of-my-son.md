@@ -1,21 +1,13 @@
-# 儿子两岁半啦，来个变化照片show
-
-- title: 儿子两岁半啦，来个变化照片show
-- link: http://www.aogun.com/?p=90
-- author: Gmy
-- category: 心情随笔
-- tags: 
-- summary: 
-- post_id: 90
-- date: 2012-01-11 22:21:10
-- post_date_gmt: 2012-01-11 14:21:10
-- comment_status: open
-- post_name: %e5%84%bf%e5%ad%90%e4%b8%a4%e5%b2%81%e5%8d%8a%e5%95%a6%ef%bc%8c%e6%9d%a5%e4%b8%aa%e5%8f%98%e5%8c%96%e7%85%a7%e7%89%87show
-- status: publish
-- post_type: post
+---
+layout: post
+title: "儿子两岁半啦，来个变化照片show"
+date: 2012-01-11 22:21
+category: "随笔"
+tags: [家人]
+---
+{% include JB/setup %}
 
 ----------------
-
 满月时（摄于2009年）： [![CIMG0024.jpg](http://lh6.ggpht.com/-_KIsNOKWQ3E/Tw2CevbGyOI/AAAAAAAABO0/b2qZb_Ra1Zk/s160-c/CIMG0024.jpg)](https://picasaweb.google.com/102097840827735163841/xsnQpB#5696352568331389154)
 
 一岁时满月时（摄于2010年）： [![DPP_0134.jpg](http://lh3.ggpht.com/-xflR4lcwXRA/Tw2CWIn9kiI/AAAAAAAABOY/eovDF6m5zYQ/s160-c/DPP_0134.jpg)](https://picasaweb.google.com/102097840827735163841/xsnQpB#5696352420477375010)

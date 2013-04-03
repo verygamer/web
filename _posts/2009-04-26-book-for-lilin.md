@@ -1,18 +1,11 @@
-# 给李琳同学推荐的笔记本电脑
-
-- title: 给李琳同学推荐的笔记本电脑
-- link: http://www.aogun.com/?p=48
-- author: Gmy
-- category: 网络分享
-- tags: 
-- summary: 
-- post_id: 48
-- date: 2009-04-26 09:41:00
-- post_date_gmt: 2009-04-26 09:41:00
-- comment_status: open
-- post_name: %b8%f8%c0%ee%c1%d5%cd%ac%d1%a7%cd%c6%bc%f6%b5%c4%b1%ca%bc%c7%b1%be%b5%e7%c4%d4
-- status: publish
-- post_type: post
+---
+layout: post
+title: "给李琳同学推荐的笔记本电脑"
+date: 2009-04-26 09:41
+category: "数码"
+tags: [笔记本]
+---
+{% include JB/setup %}
 
 ----------------
 

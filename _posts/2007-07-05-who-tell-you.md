@@ -1,18 +1,11 @@
-# 爱人远隔的兄弟，夜深人静来听听：有没有人告诉你！
-
-- title: 爱人远隔的兄弟，夜深人静来听听：有没有人告诉你！
-- link: http://www.aogun.com/?p=12
-- author: Gmy
-- category: 心情随笔
-- tags: 
-- summary: 
-- post_id: 12
-- date: 2007-07-25 17:14:37
-- post_date_gmt: 2007-07-25 17:14:37
-- comment_status: open
-- post_name: %b0%ae%c8%cb%d4%b6%b8%f4%b5%c4%d0%d6%b5%dc%a3%ac%d2%b9%c9%ee%c8%cb%be%b2%c0%b4%cc%fd%cc%fd%a3%ba%d3%d0%c3%bb%d3%d0%c8%cb%b8%e6%cb%df%c4%e3%a3%a1
-- status: publish
-- post_type: post
+---
+layout: post
+title: "爱人远隔的兄弟，夜深人静来听听：有没有人告诉你！"
+date: 2007-07-25 17:14
+category: "随笔"
+tags: [生活]
+---
+{% include JB/setup %}
 
 ----------------
 

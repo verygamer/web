@@ -1,18 +1,11 @@
-# 苹果笔记本电脑MacOSX系统下. 设置GPRS简要流程:
-
-- title: 苹果笔记本电脑MacOSX系统下. 设置GPRS简要流程:
-- link: http://www.aogun.com/?p=33
-- author: Gmy
-- category: 网络分享
-- tags: 电脑,系统,网络
-- summary: 
-- post_id: 33
-- date: 2007-10-16 12:21:37
-- post_date_gmt: 2007-10-16 12:21:37
-- comment_status: open
-- post_name: %c6%bb%b9%fb%b1%ca%bc%c7%b1%be%b5%e7%c4%d4macosx%cf%b5%cd%b3%cf%c2%c9%e8%d6%c3gprs%bc%f2%d2%aa%c1%f7%b3%cc%3a
-- status: publish
-- post_type: post
+---
+layout: post
+title: "苹果笔记本电脑MacOSX系统下. 设置GPRS简要流程"
+date: 2007-10-16 12:21
+category: "分享"
+tags: [软件]
+---
+{% include JB/setup %}
 
 ----------------
 

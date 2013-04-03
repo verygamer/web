@@ -1,18 +1,11 @@
-# 《南风窗》古中医：危墙下的复兴
-
-- title: 《南风窗》古中医：危墙下的复兴
-- link: http://www.aogun.com/?p=21
-- author: Gmy
-- category: 时事经济
-- tags: 中医,改革
-- summary: 
-- post_id: 21
-- date: 2007-08-02 05:24:15
-- post_date_gmt: 2007-08-02 05:24:15
-- comment_status: open
-- post_name: %a1%b6%c4%cf%b7%e7%b4%b0%a1%b7%b9%c5%d6%d0%d2%bd%a3%ba%ce%a3%c7%bd%cf%c2%b5%c4%b8%b4%d0%cb
-- status: publish
-- post_type: post
+---
+layout: post
+title: "读《南风窗》古中医：危墙下的复兴"
+date: 2007-08-02 05:46
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

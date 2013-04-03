@@ -1,18 +1,11 @@
-# 笑一笑,关于联通和移动的传闻
-
-- title: 笑一笑,关于联通和移动的传闻
-- link: http://www.aogun.com/?p=26
-- author: Gmy
-- category: 网络分享
-- tags: 短笑话,网络
-- summary: 
-- post_id: 26
-- date: 2007-08-28 18:52:08
-- post_date_gmt: 2007-08-28 18:52:08
-- comment_status: open
-- post_name: %d0%a6%d2%bb%d0%a6%b9%d8%d3%da%c1%aa%cd%a8%ba%cd%d2%c6%b6%af%b5%c4%b4%ab%ce%c5
-- status: publish
-- post_type: post
+---
+layout: post
+title: "笑一笑,关于联通和移动的传闻"
+date: 2007-08-28 18:52
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

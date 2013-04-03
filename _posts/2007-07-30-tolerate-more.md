@@ -1,18 +1,11 @@
-# 心有多宽,舞台就有多大!
-
-- title: 心有多宽,舞台就有多大!
-- link: http://www.aogun.com/?p=16
-- author: Gmy
-- category: 心情随笔
-- tags: 励志,随记
-- summary: 
-- post_id: 16
-- date: 2007-07-30 16:21:40
-- post_date_gmt: 2007-07-30 16:21:40
-- comment_status: open
-- post_name: %d0%c4%d3%d0%b6%e0%bf%ed%ce%e8%cc%a8%be%cd%d3%d0%b6%e0%b4%f3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "心有多宽,舞台就有多大!"
+date: 2007-07-30 16:21
+category: "随笔"
+tags: [分享]
+---
+{% include JB/setup %}
 
 ----------------
 

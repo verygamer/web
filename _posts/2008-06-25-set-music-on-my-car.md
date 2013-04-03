@@ -1,18 +1,11 @@
-# 2008年3月，成都-红牌楼-安装汽车HIFI音箱图片记录
-
-- title: 2008年3月，成都-红牌楼-安装汽车HIFI音箱图片记录
-- link: http://www.aogun.com/?p=38
-- author: Gmy
-- category: 心情随笔
-- tags: 买卖,网络,随记
-- summary: 
-- post_id: 38
-- date: 2008-06-25 05:57:32
-- post_date_gmt: 2008-06-25 05:57:32
-- comment_status: open
-- post_name: 2008%c4%ea3%d4%c2%a3%ac%b3%c9%b6%bc%ba%ec%c5%c6%c2%a5%b0%b2%d7%b0%c6%fb%b3%b5hifi%d2%f4%cf%e4%cd%bc%c6%ac%bc%c7%c2%bc
-- status: publish
-- post_type: post
+---
+layout: post
+title: "2008年3月，成都-红牌楼-安装汽车HIFI音箱图片记录"
+date: 2008-06-25 05:57
+category: "随笔"
+tags: [生活]
+---
+{% include JB/setup %}
 
 ----------------
 

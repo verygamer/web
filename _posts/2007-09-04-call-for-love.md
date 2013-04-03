@@ -1,18 +1,11 @@
-# 听陈奕迅的爱情转移
-
-- title: 听陈奕迅的爱情转移
-- link: http://www.aogun.com/?p=27
-- author: Gmy
-- category: 天澜之音
-- tags: 励志,随记,音乐
-- summary: 
-- post_id: 27
-- date: 2007-09-04 18:10:46
-- post_date_gmt: 2007-09-04 18:10:46
-- comment_status: open
-- post_name: %cc%fd%b3%c2%de%c8%d1%b8%b5%c4%b0%ae%c7%e9%d7%aa%d2%c6
-- status: publish
-- post_type: post
+---
+layout: post
+title: "听陈奕迅的爱情转移"
+date: 2007-09-04 18:10
+category: "音乐"
+tags: [老歌]
+---
+{% include JB/setup %}
 
 ----------------
 

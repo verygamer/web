@@ -1,21 +1,13 @@
-# 朋友老陈结婚，旅途上东东的搞笑三事。
-
-- title: 朋友老陈结婚，旅途上东东的搞笑三事。
-- link: http://www.aogun.com/?p=35
-- author: Gmy
-- category: 心情随笔
-- tags: 团队,自助友,随记
-- summary: 
-- post_id: 35
-- date: 2008-02-13 17:37:53
-- post_date_gmt: 2008-02-13 17:37:53
-- comment_status: open
-- post_name: %c5%f3%d3%d1%c0%cf%b3%c2%bd%e1%bb%e9%a3%ac%c2%c3%cd%be%c9%cf%b6%ab%b6%ab%b5%c4%b8%e3%d0%a6%c8%fd%ca%c2%a1%a3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "朋友老陈结婚，旅途上东东的搞笑三事。"
+date: 2008-02-13 17:37
+category: "随笔"
+tags: [生活][旅行]
+---
+{% include JB/setup %}
 
 ----------------
-
 呵呵， 很久没有更新博客了， 也许过的实在平常，平淡； 自己也思想懒惰了，没什么可写的。 总之就拿这次老陈结婚旅途的搞笑事记录一下吧，  感谢上天赐予我这么多可爱的朋友：）  
   
 东东的故事:  东东是我们在成都读研究生的同学.  

@@ -1,18 +1,11 @@
-# 读《南风窗》，分享其中上海体操队教练杨明明的读史心得
-
-- title: 读《南风窗》，分享其中上海体操队教练杨明明的读史心得
-- link: http://www.aogun.com/?p=20
-- author: Gmy
-- category: 读书读书
-- tags: 摘录,读书
-- summary: 
-- post_id: 20
-- date: 2007-08-02 05:00:24
-- post_date_gmt: 2007-08-02 05:00:24
-- comment_status: open
-- post_name: %b6%c1%a1%b6%c4%cf%b7%e7%b4%b0%a1%b7%a3%ac%b7%d6%cf%ed%c6%e4%d6%d0%c9%cf%ba%a3%cc%e5%b2%d9%b6%d3%bd%cc%c1%b7%d1%ee%c3%f7%c3%f7%b5%c4%b6%c1%ca%b7%d0%c4%b5%c3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "读《南风窗》，分享其中上海体操队教练杨明明的读史心得"
+date: 2007-08-02 05:00
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

@@ -1,18 +1,11 @@
-# 君子之交，淡若水
-
-- title: 君子之交，淡若水
-- link: http://www.aogun.com/?p=37
-- author: Gmy
-- category: 读书读书
-- tags: 励志,日志,随记
-- summary: 
-- post_id: 37
-- date: 2008-06-25 05:12:41
-- post_date_gmt: 2008-06-25 05:12:41
-- comment_status: open
-- post_name: %be%fd%d7%d3%d6%ae%bd%bb%a3%ac%b5%ad%c8%f4%cb%ae
-- status: publish
-- post_type: post
+---
+layout: post
+title: "君子之交，淡若水"
+date: 2008-06-25 05:12
+category: "随笔"
+tags: [生活]
+---
+{% include JB/setup %}
 
 ----------------
 

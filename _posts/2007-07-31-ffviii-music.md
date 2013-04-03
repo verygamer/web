@@ -1,18 +1,11 @@
-# 经典游戏:最终幻想系列主题曲MV
-
-- title: 经典游戏:最终幻想系列主题曲MV
-- link: http://www.aogun.com/?p=19
-- author: Gmy
-- category: 天澜之音
-- tags: 游戏,美,随记,音乐
-- summary: 
-- post_id: 19
-- date: 2007-07-31 11:22:30
-- post_date_gmt: 2007-07-31 11:22:30
-- comment_status: open
-- post_name: %be%ad%b5%e4%d3%ce%cf%b7%3a%d7%ee%d6%d5%bb%c3%cf%eb%cf%b5%c1%d0%d6%f7%cc%e2%c7%famv
-- status: publish
-- post_type: post
+---
+layout: post
+title: "经典游戏:最终幻想系列主题曲MV"
+date: 2007-07-31 11:22
+category: "音乐"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

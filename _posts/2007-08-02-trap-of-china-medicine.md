@@ -1,18 +1,11 @@
-# 《南风窗》中医药受困现代化陷阱
-
-- title: 《南风窗》中医药受困现代化陷阱
-- link: http://www.aogun.com/?p=22
-- author: Gmy
-- category: 时事经济
-- tags: 中医,改革
-- summary: 
-- post_id: 22
-- date: 2007-08-02 05:26:41
-- post_date_gmt: 2007-08-02 05:26:41
-- comment_status: open
-- post_name: %a1%b6%c4%cf%b7%e7%b4%b0%a1%b7%d6%d0%d2%bd%d2%a9%ca%dc%c0%a7%cf%d6%b4%fa%bb%af%cf%dd%da%e5
-- status: publish
-- post_type: post
+---
+layout: post
+title: "《南风窗》中医药受困现代化陷阱"
+date: 2007-08-02 05:26
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

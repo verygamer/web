@@ -1,18 +1,11 @@
-# SPEED的老歌alive
-
-- title: SPEED的老歌alive
-- link: http://www.aogun.com/?p=49
-- author: Gmy
-- category: 天澜之音
-- tags: 分享,随记,音乐
-- summary: 
-- post_id: 49
-- date: 2009-04-28 11:00:31
-- post_date_gmt: 2009-04-28 11:00:31
-- comment_status: open
-- post_name: speed%b5%c4%c0%cf%b8%e8alive
-- status: publish
-- post_type: post
+---
+layout: post
+title: "SPEED的老歌alive"
+date: 2009-04-28 11:00
+category: "音乐"
+tags: [老歌]
+---
+{% include JB/setup %}
 
 ----------------
 

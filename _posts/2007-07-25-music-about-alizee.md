@@ -1,18 +1,11 @@
-# 法国浪漫小天使：Alizee 的天籁
-
-- title: 法国浪漫小天使：Alizee 的天籁
-- link: http://www.aogun.com/?p=14
-- author: Gmy
-- category: 天澜之音
-- tags: 美,随记,音乐
-- summary: 
-- post_id: 14
-- date: 2007-07-25 17:46:33
-- post_date_gmt: 2007-07-25 17:46:33
-- comment_status: open
-- post_name: %b7%a8%b9%fa%c0%cb%c2%fe%d0%a1%cc%ec%ca%b9%a3%baalizee%b5%c4%cc%ec%f4%a5
-- status: publish
-- post_type: post
+---
+layout: post
+title: "法国浪漫小天使：Alizee 的天籁"
+date: 2007-07-25 17:46
+category: "音乐"
+tags: [分享]
+---
+{% include JB/setup %}
 
 ----------------
 

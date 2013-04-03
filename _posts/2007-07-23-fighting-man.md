@@ -1,18 +1,11 @@
-# 男人的战士
-
-- title: 男人的战士
-- link: http://www.aogun.com/?p=9
-- author: Gmy
-- category: 心情随笔
-- tags: 励志,爱情,随记
-- summary: 
-- post_id: 9
-- date: 2007-07-23 17:16:45
-- post_date_gmt: 2007-07-23 17:16:45
-- comment_status: open
-- post_name: %c4%d0%c8%cb%b5%c4%d5%bd%ca%bf
-- status: publish
-- post_type: post
+---
+layout: post
+title: "男人的战士"
+date: 2007-07-23 17:16
+category: "随笔"
+tags: [生活]
+---
+{% include JB/setup %}
 
 ----------------
 

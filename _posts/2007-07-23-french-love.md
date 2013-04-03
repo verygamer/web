@@ -1,18 +1,11 @@
-# 令我很感动的求爱方式。
-
-- title: 令我很感动的求爱方式。
-- link: http://www.aogun.com/?p=10
-- author: Gmy
-- category: 网络分享
-- tags: 摘录,读书
-- summary: 
-- post_id: 10
-- date: 2007-07-23 17:49:49
-- post_date_gmt: 2007-07-23 17:49:49
-- comment_status: open
-- post_name: %c1%ee%ce%d2%ba%dc%b8%d0%b6%af%b5%c4%c7%f3%b0%ae%b7%bd%ca%bd%a1%a3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "令我很感动的求爱方式。"
+date: 2007-07-23 17:49
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 

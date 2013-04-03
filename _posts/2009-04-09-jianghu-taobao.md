@@ -1,18 +1,11 @@
-# 淘宝玩新推出的 江湖社交系统
-
-- title: 淘宝玩新推出的 江湖社交系统
-- link: http://www.aogun.com/?p=47
-- author: Gmy
-- category: 网络分享
-- tags: 电脑,网络,随记
-- summary: 
-- post_id: 47
-- date: 2009-04-09 05:12:46
-- post_date_gmt: 2009-04-09 05:12:46
-- comment_status: open
-- post_name: %cc%d4%b1%a6%cd%e6%d0%c2%cd%c6%b3%f6%b5%c4%bd%ad%ba%fe%c9%e7%bd%bb%cf%b5%cd%b3
-- status: publish
-- post_type: post
+---
+layout: post
+title: "淘宝玩新推出的 江湖社交系统"
+date: 2009-04-09 05:12
+category: "分享"
+tags: [社交]
+---
+{% include JB/setup %}
 
 ----------------
 

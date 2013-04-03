@@ -1,18 +1,11 @@
-# 本立道生
-
-- title: 本立道生
-- link: http://www.aogun.com/?p=15
-- author: Gmy
-- category: 网络分享
-- tags: 励志,读书
-- summary: 
-- post_id: 15
-- date: 2007-07-26 14:36:59
-- post_date_gmt: 2007-07-26 14:36:59
-- comment_status: open
-- post_name: %b1%be%c1%a2%b5%c0%c9%fa
-- status: publish
-- post_type: post
+---
+layout: post
+title: "本立道生"
+date: 2007-07-26 14:36
+category: "随笔"
+tags: [阅读]
+---
+{% include JB/setup %}
 
 ----------------
 

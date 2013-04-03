@@ -1,21 +1,13 @@
-# 潘多拉之魔盒 欲望 贪婪
-
-- title: 潘多拉之魔盒 欲望 贪婪
-- link: http://www.aogun.com/?p=24
-- author: Gmy
-- category: 心情随笔
-- tags: 寓言,随记
-- summary: 
-- post_id: 24
-- date: 2007-08-25 05:31:26
-- post_date_gmt: 2007-08-25 05:31:26
-- comment_status: open
-- post_name: %c5%cb%b6%e0%c0%ad%d6%ae%c4%a7%ba%d0%d3%fb%cd%fb%cc%b0%c0%b7
-- status: publish
-- post_type: post
+---
+layout: post
+title: "潘多拉之魔盒 欲望 贪婪"
+date: 2007-08-25 05:31
+category: "随笔"
+tags: [生活]
+---
+{% include JB/setup %}
 
 ----------------
-
 古希腊神话中的大帝宙斯，一次派侍女潘多拉传递魔盒。在交给潘多拉魔盒时 ,宙斯叮嘱她万万不能打开盒子。然而，宙斯的告诫，反倒激起潘多拉不可遏制的好奇和探究欲望，于是她不顾一切得打开魔盒，结果，盒子里装有的所有罪恶都跑到了人间 ……   
   
 [![](http://baike.baidu.com/pic/4/11640848036756202.jpg)](http://baike.baidu.com/pic/4/11640848036756202.jpg)  

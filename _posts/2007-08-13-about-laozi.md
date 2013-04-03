@@ -1,18 +1,11 @@
-# 自胜者强!
-
-- title: 自胜者强!
-- link: http://www.aogun.com/?p=23
-- author: Gmy
-- category: 读书读书
-- tags: 励志
-- summary: 
-- post_id: 23
-- date: 2007-08-13 16:54:40
-- post_date_gmt: 2007-08-13 16:54:40
-- comment_status: open
-- post_name: %d7%d4%ca%a4%d5%df%c7%bf
-- status: publish
-- post_type: post
+---
+layout: post
+title: "自胜者强!"
+date: 2007-08-13 16:54
+category: "分享"
+tags: [转载]
+---
+{% include JB/setup %}
 
 ----------------
 
