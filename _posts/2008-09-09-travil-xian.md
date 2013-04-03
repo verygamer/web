@@ -3,7 +3,7 @@ layout: post
 title: "西安之旅"
 date: 2008-09-09 15:34
 category: "旅行"
-tags: [结婚][访盛]
+tags: [结婚]
 ---
 {% include JB/setup %}
 
