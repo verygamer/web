@@ -3,11 +3,11 @@ layout: post
 title: "搭建jekyll博客，和将wordpress备份xml文件转换为markdown数据"
 tagline: "wordpress 2 markdown"
 description: ""
-tags: [学习,分享]
+tags: [学习, 分享]
 ---
 {% include JB/setup %}
 
-本人是个程序白痴，偶然在网上发现了像[黑客一样写博客][1]这篇文章，感觉能够把自己久未更新的博客迁移到[github](http://www.github.com)上面来那就真是太好了，这样做的好处是显而易见的：
+本人是个程序白痴，偶然在网上发现了[像黑客一样写博客][1]这篇文章，感觉能够把自己久未更新的博客迁移到[github](http://www.github.com)上面来那就真是太好了，这样做的好处是显而易见的：
 
 * 通过习惯于在linux下面工作和写作，逐渐远离对windows的依赖；
 * 拥有一个免费又稳定的静态博客应该是一个很酷的事情，同时，我的文章备份也是非常容易的事；
