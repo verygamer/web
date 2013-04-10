@@ -18,13 +18,13 @@ tags: [学习, 分享]
 1. 首先，需要你的电脑配置好[Python][3]的运行环境；
 2. 使用pip安装[wp2md](http://github.com/verygamer/wp2md)
 
-    pip install -e git+git;//github.com/verygamer/wp2md#egg=wp2md    
+    `pip install -e git+git;//github.com/verygamer/wp2md#egg=wp2md`
     
     
 3. 将你的wordpress数据到出为xml文件；
 4. 进入你存放xml数据的文件夹，使用如下命令将xml转换为markdown文件（自动分割的）
 
-    python wp2md.py -d /转换出的md文件目录 你的备份.xml    
+    `python wp2md.py -d /转换出的md文件目录 你的备份.xml`
     
 
 
